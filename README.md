@@ -80,7 +80,7 @@ python main.py
 **Finger Counting**: Compares Y-coordinates of fingertips vs PIP joints (fingertips should be above/higher when extended).
 
 ### Cooldown System
-Prevents gesture spam by requiring 0.5 second cooldown between certain gestures (swipes, play/pause).
+Prevents gesture spam by requiring a variable second cooldown between certain gestures (swipes, play/pause).
 
 
 ## License
